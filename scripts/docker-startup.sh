@@ -3,7 +3,8 @@ output_folder=book-output
 release_folder=book-release
 
 # put the name of your ebook here
-book_name=automated-ebook
+#book_name=automated-ebook
+book_name=Seven-principles-to-evolve-your-career
 
 book_name_asc=$book_name.asc
 logs=$output_folder/ebook.log
